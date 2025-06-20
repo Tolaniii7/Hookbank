@@ -3,6 +3,8 @@ import styles from './style'
 import {Navbar, Business, Billing, Hero , Footer , CTA, Clients, Stats, Testimonials, CardDeal} from './components'
 
 const App = () => (
+
+  
       <div className="bg-primary w-full overflow-hidden ">
         <div className={`${styles.paddingX}`}>
           <div className={`${styles.boxWidth}`}>
